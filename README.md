@@ -204,6 +204,9 @@ A typical workflow on GitHub includes:
 - On GitHub, click the "New" button in the repository section to create a new repository.
 - Give the repository a name, optionally add a README, and click "Create Repository".
 
+- If you are working with someone else's repo and you are not a collaborator in it, you are required to fork it before cloning it.
+- A Github fork creates a personal copy of a repository, allowing you to make changes and propose updates via pull requests.
+
 ### Cloning a Repository
 ```bash
 git clone <repository_url>
