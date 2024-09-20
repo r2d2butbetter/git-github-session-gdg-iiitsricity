@@ -83,6 +83,18 @@ Shows the commit history of the repository.
 
 ---
 
+# How to Write Good Commit Messages
+
+- **Subject Line**: Use a concise summary (max 50 characters) in the **imperative mood** (e.g., "Add new feature").
+- **Body (optional)**: Include detailed explanation if needed:
+    - Explain the "why" behind the change.
+    - Describe the impact or reasoning.
+- **Issue References**: Link to related issues using `Fixes #<issue-number>` or `Closes #<issue-number>` to automatically close them.
+- **Formatting**:
+    - Keep subject line under 50 characters.
+    - Use present tense, imperative mood.
+
+
 # 4. Hands-On Activity
 
 ### Creating a Repository
