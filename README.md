@@ -268,6 +268,15 @@ Set **Milestones** to track the progress of your project and measure what’s be
 You can invite **Collaborators** to your repository and manage their permissions by going to the repository settings and selecting "Manage Access."
 
 
+# Some programs to discuss
+
+**Google Summer of Code (GSoC)** is a global program that brings new contributors into open source software development. Launched in 2005, GSoC pairs students and beginners with mentoring organizations to work on real-world coding projects. Participants gain valuable experience, improve their coding skills, and contribute to open source communities. The program runs annually, offering stipends to contributors who successfully complete their projects. GSoC has helped thousands of developers kickstart their careers and foster a passion for open source. By participating, contributors not only enhance their technical skills but also become part of a global community dedicated to collaborative software development.
+
+**Google Solution Challenge** is an annual competition organized by Google Developer Student Clubs (GDSC) on behalf of google. The challenge invites university students to develop innovative solutions using Google technologies to address one or more of the United Nations' 17 Sustainable Development Goals (SDGs). Participants work in teams to create impactful projects that tackle global issues such as poverty, climate change, and inequality. The top teams receive mentorship from Google experts, swag, and cash prizes. The challenge not only enhances participants' technical skills but also fosters a sense of community and purpose among young developers.
+
+**Major League Hacking (MLH)** is a global community that empowers hackers through various programs, including hackathons, workshops, and the MLH Fellowship. The **MLH Fellowship** is a 12-week remote internship alternative where participants work on real-world projects, collaborate in small groups, and receive mentorship from experienced developers. Fellows can choose from different tracks such as Open Source, Explorer, and Externship, each offering unique learning experiences. The program aims to bridge the gap between academic learning and professional software development, providing valuable hands-on experience. MLH also offers stipends to help offset living and educational expenses during the fellowship.
+
+
 
 ### Q&A
 Feel free to ask any questions or clarifications.
