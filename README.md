@@ -38,6 +38,19 @@ sudo apt-get install git
 
 ---
 
+# A little bit of setup
+### Git Config Basics
+
+To set your username and email in Git, use the following commands:
+
+```bash
+git config --global user.name "Your Name"
+git config --global user.email "your.email@example.com"
+```
+
+This is the name that shows up in commits so that git can identify who did what commit.
+You can also set it locally for a repo, using the --local flag instead of the --global flag.
+
 # 3. Basic Git Commands
 
 ### Creating a Repository
