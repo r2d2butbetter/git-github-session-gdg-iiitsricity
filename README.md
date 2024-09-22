@@ -241,7 +241,11 @@ git push origin <branch_name>
 ### 3.Working with Remote on local machine
 - Clone the repo you want to work with onto your local machine.
 ### Fetching from remote
-- In Git, fetching means getting the latest changes from a remote repository (like GitHub) to your local repository, but without merging them into your work yet.
+```bash
+git fetch
+```
+- In Git, fetching means getting the latest changes from a remote repository (like GitHub) to your local repository, but without merging them into your work yet
+  
 ```bash
    git remote show origin
 ```
@@ -253,9 +257,32 @@ git pull
 ```
 - It is a command which is nothing but a combination of both fetch and merge commands
 - It fetches the changes from the remote and merges it with the local repo.
+
+### Steps to Push a Local Repository to a New Remote Repository on GitHub
+
+**Initialize your local repository** (if you haven't already):
+   ```bash
+   git init
+
+Add your files to the staging area:
+``` bash
+git add .
+```
+
+Commit your changes:
+```git commit -m "Initial commit"```
+
+Add the remote repository. You can find the URL of your new GitHub repository on the GitHub website. It looks like https://github.com/username/repo.git:
+```git remote add origin https://github.com/username/repo.git```
+
+Push your changes to the remote repository:
+```git push -u origin main```
+
+This will push all your local commits to the remote repository on GitHub.
 ---
 
-## 3. Hands-On Activity
+
+## 4. Hands-On Activity
 
 ### Creating Pull Requests
 1. Create a branch in a repository and push changes to it.
@@ -268,7 +295,7 @@ git pull
 
 ---
 
-## 4. Managing Projects on Git and GitHub
+## 5. Managing Projects on Git and GitHub
 
 ### Project Boards
 GitHub **Project Boards** help organize and manage your project tasks. They allow you to create task cards and track their progress.
