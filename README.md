@@ -320,5 +320,5 @@ You can invite **Collaborators** to your repository and manage their permissions
 
 
 
-### Q&A
+### QandA
 Feel free to ask any questions or clarifications.
