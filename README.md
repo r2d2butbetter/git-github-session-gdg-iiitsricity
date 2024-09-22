@@ -14,6 +14,9 @@ Git is one of the most popular VCS, known for its **distributed** nature. Key ad
 - **Distributed**: Every developer has a full copy of the repository, allowing for offline work.
 - **Efficient Branching**: Git provides lightweight and flexible branching and merging strategies.
 
+### A few questions to ask ourselves
+- Need for a staging area
+- Anatomy of a good commit message
 ---
 
 # 2. Brief on Git Installation
