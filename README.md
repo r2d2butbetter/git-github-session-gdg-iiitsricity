@@ -14,9 +14,6 @@ Git is one of the most popular VCS, known for its **distributed** nature. Key ad
 - **Distributed**: Every developer has a full copy of the repository, allowing for offline work.
 - **Efficient Branching**: Git provides lightweight and flexible branching and merging strategies.
 
-### A few questions to ask ourselves
-- Need for a staging area
-- Anatomy of a good commit message
 ---
 
 # 2. Brief on Git Installation
@@ -241,6 +238,21 @@ git push origin <branch_name>
 - Select the branch you want to merge from and the branch you want to merge into (e.g., from `feature-branch` to `main`).
 - Provide a title and description for the pull request and submit it for review.
 
+### 3.Working with Remote on local machine
+- Clone the repo you want to work with onto your local machine.
+### Fetching from remote
+- In Git, fetching means getting the latest changes from a remote repository (like GitHub) to your local repository, but without merging them into your work yet.
+```bash
+   git remote show origin
+```
+- This command is used to check if the local machine is upto date with the changes/commits in the remote repo
+- If the local machine/repo is not upto date with the changes, it shows a message telling 'local out of date'
+- Then use the git merge command to merge the new changes of the remote to the local machine.
+```bash
+git pull
+```
+- It is a command which is nothing but a combination of both fetch and merge commands
+- It fetches the changes from the remote and merges it with the local repo.
 ---
 
 ## 3. Hands-On Activity
@@ -272,8 +284,6 @@ You can invite **Collaborators** to your repository and manage their permissions
 
 
 # Some programs to discuss
-
-**Github Hacktoberfest** is a month-long celebration of open source projects, their maintainers, and the entire community of contributors. Held every October, it encourages developers to contribute to open source repositories on GitHub, guiding new contributors through their first pull requests and fostering a collaborative coding environment.
 
 **Google Summer of Code (GSoC)** is a global program that brings new contributors into open source software development. Launched in 2005, GSoC pairs students and beginners with mentoring organizations to work on real-world coding projects. Participants gain valuable experience, improve their coding skills, and contribute to open source communities. The program runs annually, offering stipends to contributors who successfully complete their projects. GSoC has helped thousands of developers kickstart their careers and foster a passion for open source. By participating, contributors not only enhance their technical skills but also become part of a global community dedicated to collaborative software development.
 
