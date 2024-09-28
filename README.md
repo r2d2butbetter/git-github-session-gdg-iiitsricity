@@ -1,5 +1,6 @@
 
 ### Start with a small talk on what is hacktoberfest, registration video.(more on it below)
+As a developer, one of the most important skills one must learn is the art of managing and working with large codebases while collaborating with other developers, ensuring the code you write is well documented and free of bugs.<br/>Open source programs allow young developers to learn this specific art, and with Hacktoberfest officially kicking off this month, there's no better opportunity to have this session on Git and GitHub to help you take your first steps into the world of open source with us.<br/>More about open source programs will be discussed in detail during this three-day bootcamp. For now, let’s start with the fundamentals.
 
 # 1. Introduction to Version Control Systems (VCS)
 ### Definition and Importance
@@ -309,10 +310,12 @@ This will push all your local commits to the remote repository on GitHub.
 ## 5. Managing Projects on Git and GitHub
 
 ### Project Boards
-GitHub **Project Boards** help organize and manage your project tasks. They allow you to create task cards and track their progress.
+GitHub **Project Boards** help organize and manage your project tasks.<br/>Github Project Boards allows team members to track their daily tasks, create various task management systems like To-Do Lists,Kanban boards,Sprint sessions and many more.<br/>
+Roadmaps can be built and linked with other projects as well to ensure a smooth workflow and planned structure of tasks over a long term.
 
 ### Issues and Labels
-**Issues** are used to track bugs, enhancements, and other project tasks. You can use **Labels** to categorize issues based on their priority or type (e.g., bug, enhancement).
+**Issues** are used to track bugs, enhancements, and other project tasks.<br/>You can use **Labels** to categorize issues based on their priority or type (e.g., bug, enhancement).<br/>
+Issues can be assigned on **Project Boards** and can also be assigned to multiple developers with their seperate Task Cards to ensure proper management and efficiency.
 
 ### Milestones
 Set **Milestones** to track the progress of your project and measure what’s been accomplished toward a release or a big goal.
