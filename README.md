@@ -1,4 +1,6 @@
 
+### Start with a small talk on what is hacktoberfest, registration video.(more on it below)
+
 # 1. Introduction to Version Control Systems (VCS)
 ### Definition and Importance
 A **Version Control System (VCS)** is a tool that helps track changes to files over time. It allows multiple people to collaborate on a project, maintain version history, and revert to previous states if needed. VCS is crucial for software development because:
@@ -178,7 +180,16 @@ Merge conflicts occur when Git cannot automatically merge changes from different
 
 
 
-# Part 2- Introduction to GitHub and Workflow
+# Part 2- Introduction to GitHub and Workflow(Also hacktoberfest)
+
+## 0. Introdunction to Hacktoberfest
+**Hacktoberfest** is an event that happens every october, to celebrate the world of open source. Hope you have watched the video to register.
+- You must do 4 pull requests to be said to participate
+- They used to give goodies, not anymore
+- Great chance to enhance your git and github skills. also beneficial from google summer of code point of view
+- There are repos that have the hacktoberfest tag on them, search for those and try to contribute to those.
+- You need not code, there are no-code contributions too, as a part of the readme project. [Click here for more](Refer https://hacktoberfest.com/participation/#low-or-non-code)
+
 
 ## 1. Introduction to GitHub
 
