@@ -98,6 +98,11 @@ Shows the commit history of the repository.
 
 ---
 
+### Removing files
+```bash
+   git rm file_name
+```
+Git untracks the file and also removes it from the git repository/directory. 
 # How to Write Good Commit Messages
 
 - **Subject Line**: Use a concise summary (max 50 characters) in the **imperative mood** (e.g., "Add new feature").
