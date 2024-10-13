@@ -11,3 +11,7 @@
 - [Git Large File Storage (LFS)](https://git-lfs.com/)
 
 - [Artice on Git LFS](https://www.atlassian.com/git/tutorials/git-lfs)
+
+## How to write great commit messages 
+
+- [Commit message guidelines](https://www.conventionalcommits.org/en/v1.0.0/)
